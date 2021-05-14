@@ -1,0 +1,71 @@
+{
+    "name": "sumatriptan - nasal",
+    "ingredients": [
+        {
+            "ingredientId": "395892000",
+            "name": "sumatriptan (substance)"
+        },
+        {
+            "ingredientId": "96215002",
+            "name": "sumatriptan succninate (substance)"
+        }
+    ],
+    "routes": [
+        {
+            "routeId": "46713006",
+            "name": "Nasal route (qualifier value)"
+        }
+    ],
+    "records": [
+        {
+            "lowAge": {
+                "ageUnit": {
+                    "code": 5,
+                    "name": "yr"
+                },
+                "ageAmount": 12,
+                "prescribeDateTime": "2021-05-14T08:02:47.3970574+00:00"
+            },
+            "highAge": {
+                "ageUnit": {
+                    "code": 5,
+                    "name": "yr"
+                },
+                "ageAmount": 210,
+                "prescribeDateTime": "2021-05-14T08:02:47.3970576+00:00"
+            },
+            "lowWeight": 0.0,
+            "highWeight": 9999.999,
+            "cumulativeLimitValue": 0.02,
+            "cumulativeLimitUOM": "g",
+            "timePeriodValue": 2,
+            "timePeriodUOM": "h",
+            "maxAdministrations": 1
+        },
+        {
+            "lowAge": {
+                "ageUnit": {
+                    "code": 5,
+                    "name": "yr"
+                },
+                "ageAmount": 12,
+                "prescribeDateTime": "2021-05-14T08:02:47.3970603+00:00"
+            },
+            "highAge": {
+                "ageUnit": {
+                    "code": 5,
+                    "name": "yr"
+                },
+                "ageAmount": 210,
+                "prescribeDateTime": "2021-05-14T08:02:47.3970604+00:00"
+            },
+            "lowWeight": 0.0,
+            "highWeight": 9999.999,
+            "cumulativeLimitValue": 0.04,
+            "cumulativeLimitUOM": "g",
+            "timePeriodValue": 24,
+            "timePeriodUOM": "h",
+            "maxAdministrations": 2
+        }
+    ]
+}

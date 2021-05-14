@@ -1,0 +1,79 @@
+{
+    "name": "sumatriptan - parenteral",
+    "ingredients": [
+        {
+            "ingredientId": "395892000",
+            "name": "sumatriptan (substance)"
+        },
+        {
+            "ingredientId": "96215002",
+            "name": "sumatriptan succninate (substance)"
+        }
+    ],
+    "routes": [
+        {
+            "routeId": "418114005",
+            "name": "Intravenous central route"
+        },
+        {
+            "routeId": "419993007",
+            "name": "Intravenous peripheral route"
+        },
+        {
+            "routeId": "47625008",
+            "name": "Intravenous route"
+        }
+    ],
+    "records": [
+        {
+            "lowAge": {
+                "ageUnit": {
+                    "code": 5,
+                    "name": "yr"
+                },
+                "ageAmount": 10,
+                "prescribeDateTime": "2021-05-14T08:02:47.3970492+00:00"
+            },
+            "highAge": {
+                "ageUnit": {
+                    "code": 5,
+                    "name": "yr"
+                },
+                "ageAmount": 210,
+                "prescribeDateTime": "2021-05-14T08:02:47.3970494+00:00"
+            },
+            "lowWeight": 0.0,
+            "highWeight": 9999.999,
+            "cumulativeLimitValue": 0.006,
+            "cumulativeLimitUOM": "g",
+            "timePeriodValue": 1,
+            "timePeriodUOM": "h",
+            "maxAdministrations": 1
+        },
+        {
+            "lowAge": {
+                "ageUnit": {
+                    "code": 5,
+                    "name": "yr"
+                },
+                "ageAmount": 10,
+                "prescribeDateTime": "2021-05-14T08:02:47.3970521+00:00"
+            },
+            "highAge": {
+                "ageUnit": {
+                    "code": 5,
+                    "name": "yr"
+                },
+                "ageAmount": 210,
+                "prescribeDateTime": "2021-05-14T08:02:47.3970523+00:00"
+            },
+            "lowWeight": 0.0,
+            "highWeight": 9999.999,
+            "cumulativeLimitValue": 0.012,
+            "cumulativeLimitUOM": "g",
+            "timePeriodValue": 24,
+            "timePeriodUOM": "h",
+            "maxAdministrations": 2
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "name": "tramadol - enteral",
+    "ingredients": [
+        {
+            "ingredientId": "386858008",
+            "name": "tramadol (substance)"
+        },
+        {
+            "ingredientId": "108505002",
+            "name": "tramadol hydrochloride (substance)"
+        }
+    ],
+    "routes": [
+        {
+            "routeId": "26643006",
+            "name": "Oral route"
+        },
+        {
+            "routeId": "127492001",
+            "name": "Nasogastric route"
+        },
+        {
+            "routeId": "225691000001105",
+            "name": "Percutaneous endoscopic gastrostomy tube route"
+        },
+        {
+            "routeId": "127490009",
+            "name": "Gastrostomy route"
+        },
+        {
+            "routeId": "445768003",
+            "name": "Intragastric route"
+        }
+    ],
+    "records": [
+        {
+            "lowAge": {
+                "ageUnit": {
+                    "code": 5,
+                    "name": "yr"
+                },
+                "ageAmount": 12,
+                "prescribeDateTime": "2021-05-14T08:02:47.397043+00:00"
+            },
+            "highAge": {
+                "ageUnit": {
+                    "code": 5,
+                    "name": "yr"
+                },
+                "ageAmount": 210,
+                "prescribeDateTime": "2021-05-14T08:02:47.3970432+00:00"
+            },
+            "lowWeight": 0.0,
+            "highWeight": 9999.999,
+            "cumulativeLimitValue": 0.4,
+            "cumulativeLimitUOM": "g",
+            "timePeriodValue": 24,
+            "timePeriodUOM": "h",
+            "maxAdministrations": 0
+        }
+    ]
+}

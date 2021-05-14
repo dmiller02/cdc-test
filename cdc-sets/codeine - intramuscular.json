@@ -1,0 +1,112 @@
+{
+    "name": "codeine - intramuscular",
+    "ingredients": [
+        {
+            "ingredientId": "387494007",
+            "name": "codeine (substance)"
+        },
+        {
+            "ingredientId": "1476002",
+            "name": "codeine sulfate (substance)"
+        },
+        {
+            "ingredientId": "766880009",
+            "name": "codeine hydrochloride (substance)"
+        },
+        {
+            "ingredientId": "261000",
+            "name": "codeine phosphate (substance)"
+        },
+        {
+            "ingredientId": "725666006",
+            "name": "codeine phosphate hemihydrate (substance)"
+        },
+        {
+            "ingredientId": "765394005",
+            "name": "codeine phosphate anhydrous (substance)"
+        }
+    ],
+    "routes": [
+        {
+            "routeId": "78421000",
+            "name": "Intramuscular route (qualifier value)"
+        }
+    ],
+    "records": [
+        {
+            "lowAge": {
+                "ageUnit": {
+                    "code": 5,
+                    "name": "yr"
+                },
+                "ageAmount": 12,
+                "prescribeDateTime": "2021-05-14T08:02:47.3970991+00:00"
+            },
+            "highAge": {
+                "ageUnit": {
+                    "code": 5,
+                    "name": "yr"
+                },
+                "ageAmount": 210,
+                "prescribeDateTime": "2021-05-14T08:02:47.3971011+00:00"
+            },
+            "lowWeight": 0.0,
+            "highWeight": 9999.999,
+            "cumulativeLimitValue": 0.24,
+            "cumulativeLimitUOM": "g",
+            "timePeriodValue": 24,
+            "timePeriodUOM": "h",
+            "maxAdministrations": 4
+        },
+        {
+            "lowAge": {
+                "ageUnit": {
+                    "code": 5,
+                    "name": "yr"
+                },
+                "ageAmount": 12,
+                "prescribeDateTime": "2021-05-14T08:02:47.3971044+00:00"
+            },
+            "highAge": {
+                "ageUnit": {
+                    "code": 5,
+                    "name": "yr"
+                },
+                "ageAmount": 18,
+                "prescribeDateTime": "2021-05-14T08:02:47.3971046+00:00"
+            },
+            "lowWeight": 0.0,
+            "highWeight": 9999.999,
+            "cumulativeLimitValue": 0.06,
+            "cumulativeLimitUOM": "g",
+            "timePeriodValue": 6,
+            "timePeriodUOM": "h",
+            "maxAdministrations": 1
+        },
+        {
+            "lowAge": {
+                "ageUnit": {
+                    "code": 5,
+                    "name": "yr"
+                },
+                "ageAmount": 18,
+                "prescribeDateTime": "2021-05-14T08:02:47.3971072+00:00"
+            },
+            "highAge": {
+                "ageUnit": {
+                    "code": 5,
+                    "name": "yr"
+                },
+                "ageAmount": 210,
+                "prescribeDateTime": "2021-05-14T08:02:47.3971073+00:00"
+            },
+            "lowWeight": 0.0,
+            "highWeight": 9999.999,
+            "cumulativeLimitValue": 0.06,
+            "cumulativeLimitUOM": "g",
+            "timePeriodValue": 4,
+            "timePeriodUOM": "h",
+            "maxAdministrations": 1
+        }
+    ]
+}

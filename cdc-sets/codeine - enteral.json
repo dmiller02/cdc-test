@@ -1,0 +1,153 @@
+{
+    "name": "codeine - enteral",
+    "ingredients": [
+        {
+            "ingredientId": "387494007",
+            "name": "codeine (substance)"
+        },
+        {
+            "ingredientId": "1476002",
+            "name": "codeine sulfate (substance)"
+        },
+        {
+            "ingredientId": "766880009",
+            "name": "codeine hydrochloride (substance)"
+        },
+        {
+            "ingredientId": "261000",
+            "name": "codeine phosphate (substance)"
+        },
+        {
+            "ingredientId": "725666006",
+            "name": "codeine phosphate hemihydrate (substance)"
+        },
+        {
+            "ingredientId": "765394005",
+            "name": "codeine phosphate anhydrous (substance)"
+        }
+    ],
+    "routes": [
+        {
+            "routeId": "26643006",
+            "name": "Oral route"
+        },
+        {
+            "routeId": "127492001",
+            "name": "Nasogastric route"
+        },
+        {
+            "routeId": "225691000001105",
+            "name": "Percutaneous endoscopic gastrostomy tube route"
+        },
+        {
+            "routeId": "127490009",
+            "name": "Gastrostomy route"
+        },
+        {
+            "routeId": "445768003",
+            "name": "Intragastric route"
+        }
+    ],
+    "records": [
+        {
+            "lowAge": {
+                "ageUnit": {
+                    "code": 5,
+                    "name": "yr"
+                },
+                "ageAmount": 12,
+                "prescribeDateTime": "2021-05-14T08:02:47.397069+00:00"
+            },
+            "highAge": {
+                "ageUnit": {
+                    "code": 5,
+                    "name": "yr"
+                },
+                "ageAmount": 18,
+                "prescribeDateTime": "2021-05-14T08:02:47.3970691+00:00"
+            },
+            "lowWeight": 0.0,
+            "highWeight": 9999.999,
+            "cumulativeLimitValue": 0.24,
+            "cumulativeLimitUOM": "g",
+            "timePeriodValue": 24,
+            "timePeriodUOM": "h",
+            "maxAdministrations": 4
+        },
+        {
+            "lowAge": {
+                "ageUnit": {
+                    "code": 5,
+                    "name": "yr"
+                },
+                "ageAmount": 12,
+                "prescribeDateTime": "2021-05-14T08:02:47.3970719+00:00"
+            },
+            "highAge": {
+                "ageUnit": {
+                    "code": 5,
+                    "name": "yr"
+                },
+                "ageAmount": 18,
+                "prescribeDateTime": "2021-05-14T08:02:47.397072+00:00"
+            },
+            "lowWeight": 0.0,
+            "highWeight": 9999.999,
+            "cumulativeLimitValue": 0.06,
+            "cumulativeLimitUOM": "g",
+            "timePeriodValue": 6,
+            "timePeriodUOM": "h",
+            "maxAdministrations": 1
+        },
+        {
+            "lowAge": {
+                "ageUnit": {
+                    "code": 5,
+                    "name": "yr"
+                },
+                "ageAmount": 18,
+                "prescribeDateTime": "2021-05-14T08:02:47.3970746+00:00"
+            },
+            "highAge": {
+                "ageUnit": {
+                    "code": 5,
+                    "name": "yr"
+                },
+                "ageAmount": 210,
+                "prescribeDateTime": "2021-05-14T08:02:47.3970748+00:00"
+            },
+            "lowWeight": 0.0,
+            "highWeight": 9999.999,
+            "cumulativeLimitValue": 0.24,
+            "cumulativeLimitUOM": "g",
+            "timePeriodValue": 24,
+            "timePeriodUOM": "h",
+            "maxAdministrations": 6
+        },
+        {
+            "lowAge": {
+                "ageUnit": {
+                    "code": 5,
+                    "name": "yr"
+                },
+                "ageAmount": 18,
+                "prescribeDateTime": "2021-05-14T08:02:47.3970773+00:00"
+            },
+            "highAge": {
+                "ageUnit": {
+                    "code": 5,
+                    "name": "yr"
+                },
+                "ageAmount": 210,
+                "prescribeDateTime": "2021-05-14T08:02:47.3970775+00:00"
+            },
+            "lowWeight": 0.0,
+            "highWeight": 9999.999,
+            "cumulativeLimitValue": 0.06,
+            "cumulativeLimitUOM": "g",
+            "timePeriodValue": 4,
+            "timePeriodUOM": "h",
+            "maxAdministrations": 1
+        }
+    ]
+}
